@@ -1,3 +1,11 @@
+https://www.google.com/search?q=azure+ai+call+center&
+
+https://techcommunity.microsoft.com/blog/azurearchitectureblog/azure-openai-and-call-center-modernization/4107070
+
+https://learn.microsoft.com/en-us/azure/architecture/ai-ml/openai/architecture/call-center-openai-analytics
+
+https://learn.microsoft.com/en-us/azure/ai-services/speech-service/call-center-quickstart
+
 ---
 page_type: sample
 languages:
